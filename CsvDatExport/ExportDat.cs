@@ -13,9 +13,9 @@ using System.Windows.Forms;
 
 namespace CsvDatExport
 {
-    public partial class Form1 : Form
+    public partial class ExportDat : Form
     {
-        public Form1()
+        public ExportDat()
         {
             InitializeComponent();
         }

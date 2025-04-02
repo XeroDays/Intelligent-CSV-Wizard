@@ -18,7 +18,7 @@ namespace CsvDatExport
             ExcelPackage.License.SetNonCommercialOrganization("My Noncommercial organization");
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Form1());
+            Application.Run(new ExportDat());
         }
     }
 }

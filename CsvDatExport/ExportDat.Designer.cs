@@ -1,6 +1,6 @@
 ﻿namespace CsvDatExport
 {
-    partial class Form1
+    partial class ExportDat
     {
         /// <summary>
         /// Required designer variable.
