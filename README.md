@@ -57,7 +57,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📧 Contact
 For any inquiries or suggestions, feel free to reach out:
 - 📩 Email: iamsyedidrees@gmail.com
-- 🌐 GitHub: [Your GitHub Profile](https://github.com/xerodays)
+- 🌐 GitHub: [Xerodays](https://github.com/xerodays)
 
 ---
 
