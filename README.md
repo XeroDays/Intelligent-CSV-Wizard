@@ -1,6 +1,5 @@
 # Intelligent CSV Wizard
-
-![Intelligent CSV Wizard](https://your-image-url.com)
+![image](https://github.com/user-attachments/assets/27131d16-6075-4e68-a82f-f73add38b44f)
 
 ## 🚀 Overview
 Intelligent CSV Wizard is a Windows Forms application designed to efficiently manage and manipulate CSV files. Using the **EPPlus** plugin, this tool provides powerful features for handling CSV data, including parsing, transformation, and validation.
@@ -11,6 +10,13 @@ Intelligent CSV Wizard is a Windows Forms application designed to efficiently ma
 - ✅ **Validation & Cleaning** - Detect errors and clean messy data.
 - 🔄 **Data Transformation** - Convert CSV data into different formats.
 - 📁 **Export Options** - Convert CSV and DAT files to Excel, with more formats coming soon.
+
+## 📂 Supported Formats
+Currently, **Intelligent CSV Wizard** supports the following formats:
+- **CSV (.csv)**
+- **DAT (.dat)**
+
+More formats will be added in future updates.
 
 ## 📥 Installation
 To install and run **Intelligent CSV Wizard**, follow these steps:
